@@ -1,6 +1,6 @@
 # CS234: Reinforcement Learning, Stanford
 
-## Official link http://web.stanford.edu/class/cs234/CS234Win2019/schedule.html
+## Course link http://web.stanford.edu/class/cs234/CS234Win2019/schedule.html
 
 <div align="center"><img src="https://blogs.unity3d.com/wp-content/uploads/2017/09/image3.png" width="70%"><p>Reinforcement Learning (Agent and environment). image source: Unity's blog on <a href="https://blogs.unity3d.com/2017/09/19/introducing-unity-machine-learning-agents/2/">Unity Machine Learning Agents Toolkit</a></p></div>
 
